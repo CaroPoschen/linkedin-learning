@@ -113,3 +113,70 @@ The Right Motivation
 If necessary, make a short stakeholder analysis:
 
 ![](./imgs/StakeholderAnalysis.png)
+
+**Main thing: Communication!**
+
+## Planning
+
+First step: Figure out the status quo. A lot of people ignore this. Need to understand what is good, what is not good.
+
+Status Quo
+1. Who is involved?
+2. What's the goal?
+3. What's in place?
+4. How does it scale?
+5. What's the cost?
+6. Does it align?
+
+Requirement Problems
+- Engineers don't know the KPIs.
+- They are told the wrong KPIs.
+
+Wrong KPIs: Lead to unexpected problems, cost, or need for an early redesign
+
+Types of KPIs:
+- Project KPIs: Topics oriented to project management and big picture
+	- Budget per year
+	- Expected required scalability 
+	- Data/System availability and retention
+	- Backup and recovery
+	- Data sources and integration
+	- Security and privacy
+- Day-to-Day KPIs: Technical indicators that are monitored on a daily basis 
+	- Data volume
+	- Data quality/error rate
+	- Processing latency
+	- Query performance 
+
+Scalability Example:
+- Predictions
+- Data volumes
+- Expected users
+- Horizontal or vertical scaling requirements 
+- Future ops capability
+
+Defining good KPIs:
+- Relevant
+- Specific
+- Measurable
+- Time-bound
+
+Good KPI Factors
+- Easy to understand
+- Comparable
+- Reliable
+
+Examples for KPIs: 
+1. "Decrease end-to-end processing by 5 seconds until 31st March 2023."
+2. "Increase system availability to %99.999999 per month by March 2023."
+
+| Example | Action | Detail | Value | Unit (Deadline) |
+-------------------
+| 1 | Decrease | end-to-end processing | 5 seconds | 31st March 2023 |
+| 2 | Increase | system availability | %99.999999 per month | March 2023 |
+
+Check KPIs (goals) for *Action*, *Detail*, *Value*, and *Unit*.
+
+## Design
+
+
