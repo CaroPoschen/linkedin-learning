@@ -166,14 +166,11 @@ Good KPI Factors
 - Comparable
 - Reliable
 
-Examples for KPIs: 
-1. "Decrease end-to-end processing by 5 seconds until 31st March 2023."
-2. "Increase system availability to %99.999999 per month by March 2023."
-
-| Example | Action | Detail | Value | Unit (Deadline) |
--------------------
-| 1 | Decrease | end-to-end processing | 5 seconds | 31st March 2023 |
-| 2 | Increase | system availability | %99.999999 per month | March 2023 |
+Examples for KPIs: "Decrease end-to-end processing by 5 seconds until 31st March 2023."
+- Action: Decrease
+- Detail: end-to-end processing
+- Value: 5 seconds
+- Unit: 31st March 2023
 
 Check KPIs (goals) for *Action*, *Detail*, *Value*, and *Unit*.
 
