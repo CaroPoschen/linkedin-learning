@@ -1,5 +1,7 @@
 # Data Engineering with dbt
 
+*Code for this project is available in the forked original project [here](https://github.com/CaroPoschen/data-engineering-with-data-build-tool-dbt-4458303)*
+
 Scenario: Using the dbt Core applying the Medallion Architecture to parking violations data
 
 **Medallion Architecture**
